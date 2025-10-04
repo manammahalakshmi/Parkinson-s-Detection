@@ -20,9 +20,7 @@ Key Highlights:
 ```
 📦 Parkinsons-Disease-Detection
  ┣ 📜 Parkinsonss.ipynb        # Main notebook (code & experiments)
- ┣ 📜 requirements.txt         # Dependencies
  ┣ 📜 README.md                # Project documentation
- ┗ 📂 data/                     # Dataset (not included here, see below)
 ```
 
 ---
